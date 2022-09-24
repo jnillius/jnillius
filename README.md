@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jonathan!</h1>
-<h3 align="center">I am an eager learner from Sweden :)</h3>
+<h3 align="center">I am an eager learner from Sweden. I have a Master's degree in "Engineering mathematics and computational science" where I specialized in machine learning and optimization. I'm especially passionate about computer vision. </h3>
 
 - 🔭 I’m currently working on: **random coding challenges for fun**
 
